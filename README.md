@@ -30,10 +30,14 @@ Follow these steps to run the project locally:
 git clone https://github.com/ahmedyousuf06/laravelReact.git
 cd laravelReact
 
+---
+
 ### 2. Install PHP Dependencies
 
 ```bash
 composer install
+
+---
 
 ### 3. Install JavaScript Dependencies
 
